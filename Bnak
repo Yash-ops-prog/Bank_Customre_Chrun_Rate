@@ -1,0 +1,5 @@
+import streamlit as st
+
+st.title("Bank Customer Chrun Rate")
+
+st.write("Bank Customer Chrun Rate")
